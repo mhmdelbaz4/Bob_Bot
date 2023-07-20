@@ -1,0 +1,15 @@
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\bin\Debug\net6.0\Bob_Bot.exe
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\bin\Debug\net6.0\Bob_Bot.deps.json
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\bin\Debug\net6.0\Bob_Bot.runtimeconfig.json
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\bin\Debug\net6.0\Bob_Bot.dll
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\bin\Debug\net6.0\Bob_Bot.pdb
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\obj\Debug\net6.0\Bob_Bot.csproj.AssemblyReference.cache
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\obj\Debug\net6.0\Bob_Bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\obj\Debug\net6.0\Bob_Bot.AssemblyInfoInputs.cache
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\obj\Debug\net6.0\Bob_Bot.AssemblyInfo.cs
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\obj\Debug\net6.0\Bob_Bot.csproj.CoreCompileInputs.cache
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\obj\Debug\net6.0\Bob_Bot.dll
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\obj\Debug\net6.0\refint\Bob_Bot.dll
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\obj\Debug\net6.0\Bob_Bot.pdb
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\obj\Debug\net6.0\Bob_Bot.genruntimeconfig.cache
+D:\Projects\Github\Bob_Bot\Bob_Bot\Bob_Bot\obj\Debug\net6.0\ref\Bob_Bot.dll

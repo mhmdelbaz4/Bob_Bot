@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bob_Bot/1.0.0": {
+        "runtime": {
+          "Bob_Bot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bob_Bot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
